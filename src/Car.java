@@ -4,7 +4,5 @@
 public class Car {
     private int speed;
     private String name;
-    public Car(){
-        this.speed = 2;
-    }
+
 }
